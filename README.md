@@ -2,7 +2,7 @@
 
 A pure C based *pomodoro studying technique* in-terminal app, with a subtle yet sweet client-server architecture flavour.
 
-<img src="logo.webp" alt="cdoro logo image" style="max-width: 300px;">
+<img src="logo.png" alt="cdoro logo image" style="max-width: 300px;">
 
 ## Roadmap 
 So far, a compact yet functional path is foreseen in the near future.
