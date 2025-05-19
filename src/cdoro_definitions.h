@@ -1,7 +1,7 @@
 #define EXIT_SUCCESS 0
 #define EXIT_FAILURE 1
 
-#define FIFO_PATH "/tmp/cdoro_fifo"
+#define FIFO_PATH "/tmp/cdoro_daemon"
 
 #define POMODORO_START 1
 #define POMODORO_STOP 2
